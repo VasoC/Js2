@@ -27,13 +27,14 @@ let person5 = {
   age: 26,
 };
 let listPersons = [person1, person2, person3, person4, person5];
+// თუ არ ვცდები დავალებაში არ იყო ეს პუნქტი, annyway !
 // console.log(listPersons)
 
 // 3
 let Personsinfo = {
   FirstName: "Vasil",
   LastName: "Chkhartishvili",
-  Adress: ["Lanchkhuti vill. Lesa" , "Batumi, Takaishvili str. #79"],
+  Adress: ["Lanchkhuti vill. Lesa", "Batumi, Takaishvili str. #79"],
   Age: 26,
   PhoneNumbers: ["59800218", "558000011"],
 };
